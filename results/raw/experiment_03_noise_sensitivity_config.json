@@ -1,0 +1,39 @@
+{
+  "grid": {
+    "n_intervals": 128,
+    "length": 3.141592653589793
+  },
+  "problem": {
+    "final_time": 1.0,
+    "n_terms": 15
+  },
+  "regularization": {
+    "beta": 0.5,
+    "r": 2.0,
+    "m4_sqrt": true
+  },
+  "noise_levels": [
+    0.001,
+    1e-05,
+    1e-07
+  ],
+  "times": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "seed": 2015,
+  "figure_noise_level": 1e-05,
+  "section_cut_indices": [
+    51,
+    64,
+    102
+  ]
+}

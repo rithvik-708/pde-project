@@ -1,0 +1,3 @@
+21:52:03 | experiment_04_regularization_parameter | INFO | grid 129x129 nodes, T=1.00, K=15, seed=2015
+21:52:11 | experiment_04_regularization_parameter | INFO | regimes: {'too much regularisation': {'M': 3.0, 'modes': 1, 'relative_l2': 1.0000000000000766}, 'appropriate (optimal)': {'M': 5.0, 'modes': 3, 'relative_l2': 0.2756543774976077}, 'too little regularisation': {'M': 26.0, 'modes': 17, 'relative_l2': 6807.268543640727}}
+21:52:11 | experiment_04_regularization_parameter | INFO | done

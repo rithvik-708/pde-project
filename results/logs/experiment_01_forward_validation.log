@@ -1,0 +1,7 @@
+21:51:28 | experiment_01_forward_validation | INFO | grid 129x129 nodes, T=1.00, K=15, seed=2015
+21:51:28 | experiment_01_forward_validation | INFO | spectral forward solve finished in 0.01 s
+21:51:28 | experiment_01_forward_validation | INFO | spectral forward: max|err| = 4.718e-16, rel L2 = 4.099e-16
+21:51:36 | experiment_01_forward_validation | INFO | Filon orders: [2. 2. 2. 2.]
+21:51:39 | experiment_01_forward_validation | INFO | Crank-Nicolson study finished in 3.40 s
+21:51:39 | experiment_01_forward_validation | INFO | Crank-Nicolson rel-L2 errors: [0.01195812 0.00268577 0.00065591]
+21:51:46 | experiment_01_forward_validation | INFO | done

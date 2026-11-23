@@ -1,0 +1,8 @@
+21:52:11 | experiment_05_reproduce_paper | INFO | grid 129x129 nodes, T=1.00, K=15, seed=2015
+21:52:11 | experiment_05_reproduce_paper | INFO | Table 1 reproduced; max relative deviation from printed values 2.24e-04
+21:52:11 | experiment_05_reproduce_paper | INFO | eps=0.001: actual ||g_eps-g||_L2 = 5.776e-04 (bound eps), max|noise| = 3.183e-04 (bound eps/pi = 3.183e-04)
+21:52:11 | experiment_05_reproduce_paper | INFO | eps=1e-05: actual ||g_eps-g||_L2 = 5.760e-06 (bound eps), max|noise| = 3.183e-06 (bound eps/pi = 3.183e-06)
+21:52:11 | experiment_05_reproduce_paper | INFO | eps=1e-07: actual ||g_eps-g||_L2 = 5.775e-08 (bound eps), max|noise| = 3.183e-08 (bound eps/pi = 3.183e-08)
+21:52:12 | experiment_05_reproduce_paper | INFO | Table 2: max |rel diff| over 119 entries (typo excluded) = 4.220e-03; median = 5.160e-05
+21:52:12 | experiment_05_reproduce_paper | INFO | typo cell (eps=1e-5, M3, t=0.1): ours 1.2879e-01 vs printed 1.2870e-02
+21:52:16 | experiment_05_reproduce_paper | INFO | done

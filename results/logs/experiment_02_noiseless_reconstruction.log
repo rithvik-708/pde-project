@@ -1,0 +1,5 @@
+21:51:46 | experiment_02_noiseless_reconstruction | INFO | grid 129x129 nodes, T=1.00, K=15, seed=2015
+21:51:46 | experiment_02_noiseless_reconstruction | INFO | t=0.0: best M=20 (rel L2 1.350e-01); worst rel L2 in sweep 5.843e+111
+21:51:46 | experiment_02_noiseless_reconstruction | INFO | t=0.5: best M=45 (rel L2 8.262e-02); worst rel L2 in sweep 2.441e+69
+21:51:46 | experiment_02_noiseless_reconstruction | INFO | t=0.9: best M=320 (rel L2 2.048e-02); worst rel L2 in sweep 1.525e+00
+21:51:51 | experiment_02_noiseless_reconstruction | INFO | done
